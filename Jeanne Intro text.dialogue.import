@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dls2wp5ot2qqb"
+path="res://.godot/imported/Jeanne Intro text.dialogue-d3650763ae68a33a1b69d85900752b32.tres"
+
+[deps]
+
+source_file="res://Jeanne Intro text.dialogue"
+dest_files=["res://.godot/imported/Jeanne Intro text.dialogue-d3650763ae68a33a1b69d85900752b32.tres"]
+
+[params]
+
+defaults=true
