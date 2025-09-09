@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://c7vrfis8aaenm"
+path="res://.godot/imported/template_combat.dialogue-7cd403cc71db287e65a388655b1f686d.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Jeanne/2_Jeanne_combat/2Minigamedialogue/template_combat.dialogue"
+dest_files=["res://.godot/imported/template_combat.dialogue-7cd403cc71db287e65a388655b1f686d.tres"]
+
+[params]
+
+defaults=true
