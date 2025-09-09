@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://c0itxt8w3yml0" path="res://scenes/quests/story_quests/template/template_player_components/template_player_attack_01.png" id="1_kmwp7"]
 [ext_resource type="Texture2D" uid="uid://covbt3em3ppm1" path="res://scenes/quests/story_quests/template/template_player_components/template_player_attack_02.png" id="2_2syiw"]
 [ext_resource type="Texture2D" uid="uid://dly3ikrx05f0x" path="res://scenes/quests/story_quests/template/template_player_components/template_player_defeated.png" id="3_x2nhv"]
-[ext_resource type="Texture2D" uid="uid://juam8k3su7gt" path="res://scenes/quests/story_quests/Jeanne/Jeanne_player_components/Jeanne Player.png" id="5_jgjmq"]
+[ext_resource type="Texture2D" uid="uid://juam8k3su7gt" path="res://scenes/quests/story_quests/Jeanne/4_Jeanne_outro/Jeanne_player_components/Jeanne Player.png" id="5_jgjmq"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_yg72c"]
 atlas = ExtResource("1_kmwp7")

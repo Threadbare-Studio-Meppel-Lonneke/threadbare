@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://drn01eelk4nvp"
-path="res://.godot/imported/template_player_attack_01.png-34c5e9dea8a9936af6ed20ff12e2f651.ctex"
+uid="uid://bb6a4uglj2wry"
+path="res://.godot/imported/template_player_idle.png-f7a780879af303f5ff99227acc7d9938.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/Jeanne/Jeanne_player_components/template_player_attack_01.png"
-dest_files=["res://.godot/imported/template_player_attack_01.png-34c5e9dea8a9936af6ed20ff12e2f651.ctex"]
+source_file="res://scenes/quests/story_quests/Jeanne/4_Jeanne_outro/Jeanne_player_components/template_player_idle.png"
+dest_files=["res://.godot/imported/template_player_idle.png-f7a780879af303f5ff99227acc7d9938.ctex"]
 
 [params]
 

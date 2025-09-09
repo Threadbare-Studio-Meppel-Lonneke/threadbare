@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bukoidkjfa0nq"
-path="res://.godot/imported/template_player_defeated.png-0cb8a25d03f2d112c078d3e046955a7c.ctex"
+path="res://.godot/imported/template_player_defeated.png-d81e262f6c6f4dd3e2ba24753baeac54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/Jeanne/Jeanne_player_components/template_player_defeated.png"
-dest_files=["res://.godot/imported/template_player_defeated.png-0cb8a25d03f2d112c078d3e046955a7c.ctex"]
+source_file="res://scenes/quests/story_quests/Jeanne/4_Jeanne_outro/Jeanne_player_components/template_player_defeated.png"
+dest_files=["res://.godot/imported/template_player_defeated.png-d81e262f6c6f4dd3e2ba24753baeac54.ctex"]
 
 [params]
 
